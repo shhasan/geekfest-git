@@ -1,2 +1,2 @@
-# geekest-git
+# geekfest-git
 Content for workshop presented at Geekfest 2020. 
